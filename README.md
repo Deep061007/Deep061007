@@ -20,10 +20,10 @@
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/deepbandekar" target="_blank">
+  <a href="https://www.linkedin.com/in/deep-bandekar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="deepbandekar01@gmail.com">
+  <a href="mailto:deepbandekar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
