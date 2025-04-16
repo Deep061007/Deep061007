@@ -20,7 +20,7 @@
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/deep-bandekar" target="_blank">
+  <a href="https://www.linkedin.com/in/deepbandekar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:deepbandekar01@gmail.com">
